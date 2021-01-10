@@ -1,0 +1,7 @@
+Fezzik,Sportsmanlike,10,5,24,31
+Inigo,YouKeepUsingThatWord,3,2,12,12
+Buttercup,LightningSand,5,5,28,32
+Vizzini,Inconceivable!,10,2,11,15
+Rugen,SixFingers,6,4,22,22
+Marge,IHeartCS401,2,1,4,6
+Ingmar,Programming!,2,1,4,6
